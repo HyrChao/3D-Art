@@ -1,2 +1,2 @@
 # 3D-Art
-3D Models (PBR,HnadPaint)
+3D Models (PBR,HandPaint)
